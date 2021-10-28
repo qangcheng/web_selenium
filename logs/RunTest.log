@@ -1,0 +1,411 @@
+2021-10-26 15:59:09,589 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 15:59:09,671 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 15:59:09,724 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 15:59:09,782 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 15:59:11,861 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 15:59:48,732 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 15:59:48,794 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 15:59:48,822 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 15:59:48,868 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 15:59:50,925 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:00:09,902 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:00:09,965 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:00:09,998 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:00:10,038 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:00:12,093 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:25:56,172 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:25:56,240 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:25:56,275 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:25:56,319 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:25:58,369 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:26:00,853 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:26:01,081 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:26:01,529 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:26:01,629 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:26:01,723 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:26:01,805 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 16:26:04,894 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:26:05,101 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 16:26:10,814 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:28:38,229 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:28:38,314 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:28:38,356 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:28:38,411 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:28:40,465 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:28:43,562 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:28:43,812 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:28:44,373 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:28:44,464 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:28:44,561 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:28:44,624 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 16:28:47,707 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:28:48,164 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 16:28:53,799 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:33:23,816 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:33:23,895 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:33:23,947 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:33:24,008 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:33:26,106 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:33:28,742 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:33:28,957 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:33:29,425 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:33:29,532 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:33:29,622 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:33:29,708 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 16:33:32,778 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:36:39,735 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:36:39,801 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:36:39,853 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:36:39,947 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:36:41,996 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:36:44,872 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:36:45,585 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:36:46,201 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:36:46,315 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:36:46,397 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:36:46,476 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 16:36:46,566 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:36:47,108 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:36:47,125 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 16:38:31,593 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:38:31,667 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:38:31,718 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:38:31,830 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:38:33,880 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:38:36,345 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:38:36,594 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:38:37,208 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:38:37,324 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:38:37,413 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:38:37,507 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 16:38:37,569 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:38:38,110 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:38:38,132 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 16:39:13,893 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:39:13,964 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:39:14,009 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:39:14,068 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:39:16,146 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:39:18,612 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:39:18,829 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:39:19,303 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:39:19,418 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:39:19,498 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:39:19,603 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 16:39:22,708 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:41:13,388 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:41:13,454 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:41:13,511 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:41:13,603 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:41:15,649 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:41:18,330 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:41:18,549 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:41:19,164 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:41:19,274 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:41:19,378 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:41:19,476 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 16:41:22,558 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:41:22,688 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 16:49:08,759 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:49:08,831 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:49:08,886 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:49:09,015 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:49:11,066 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:49:13,441 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:49:13,660 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:49:14,268 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:49:14,383 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:49:14,461 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:49:14,564 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 16:49:14,629 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:49:15,169 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:49:15,188 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 16:49:18,245 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 16:49:18,447 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 16:51:36,566 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:51:36,633 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:51:36,671 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:51:36,716 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:51:38,767 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:51:41,265 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:51:41,532 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:51:41,990 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:51:42,108 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:51:42,205 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:51:42,329 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 16:51:45,419 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:51:45,639 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 16:51:51,256 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:52:18,498 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:52:18,563 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:52:18,596 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:52:18,645 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:52:20,700 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:52:23,215 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:52:23,389 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:52:24,375 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:52:24,462 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:52:24,553 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:52:24,613 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 16:52:24,672 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:52:25,275 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:52:25,296 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 16:52:28,345 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 16:52:28,597 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 16:52:34,206 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 16:54:53,708 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:54:53,783 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:54:53,833 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:54:53,925 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:54:55,973 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:54:58,484 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:54:58,714 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:54:59,180 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:54:59,297 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:54:59,385 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:54:59,478 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 16:55:02,557 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:55:02,744 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 16:55:08,372 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 16:55:50,699 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 16:55:50,768 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 16:55:50,803 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 16:55:50,854 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 16:55:52,906 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 16:55:55,027 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 16:55:55,183 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 16:55:56,393 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 16:55:56,474 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:55:56,555 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 16:55:56,616 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 16:55:56,683 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:55:57,263 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 16:55:57,284 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 16:56:00,339 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 16:56:00,607 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 16:56:06,201 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 17:02:41,445 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 17:02:41,512 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 17:02:41,549 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 17:02:41,595 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 17:02:43,648 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 17:02:46,192 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 17:02:46,467 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 17:02:46,910 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 17:02:47,008 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 17:02:47,103 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 17:02:47,182 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 17:02:50,268 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 17:03:31,808 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 17:03:31,872 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 17:03:31,915 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 17:03:31,960 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 17:03:34,013 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 17:03:36,146 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 17:03:36,325 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 17:03:36,709 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 17:03:36,805 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 17:03:36,897 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 17:03:36,975 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 17:03:37,038 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 17:03:37,608 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 17:03:37,631 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 17:03:40,684 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 17:11:28,071 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 17:11:28,144 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 17:11:28,196 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 17:11:28,314 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 17:11:30,363 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 17:11:32,919 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 17:11:33,139 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 17:11:33,591 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 17:11:33,708 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 17:11:33,793 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 17:11:33,881 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 17:11:36,958 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 17:11:37,162 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 17:11:42,823 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 17:11:54,785 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 17:11:54,840 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 17:11:54,871 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 17:11:54,917 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 17:11:56,966 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 17:12:00,161 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 17:12:00,319 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 17:12:01,345 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 17:12:01,434 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 17:12:01,516 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 17:12:01,577 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 17:12:01,632 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 17:12:02,268 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 17:12:02,287 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 17:12:05,343 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 17:12:05,568 base.py[line:40] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-26 17:12:11,311 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 18:00:33,463 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 18:00:33,527 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 18:00:33,578 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 18:00:33,698 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 18:00:35,748 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 18:00:38,416 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 18:00:38,677 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 18:00:39,082 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 18:00:39,188 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:00:39,280 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:00:39,367 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 18:00:42,445 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 18:01:13,765 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 18:01:13,827 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 18:01:13,858 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 18:01:13,904 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 18:01:15,958 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 18:01:18,282 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 18:01:18,457 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 18:01:19,404 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 18:01:19,494 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:01:19,578 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:01:19,649 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 18:01:19,708 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 18:01:20,309 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 18:01:20,328 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 18:01:23,382 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 18:03:57,627 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 18:03:57,697 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 18:03:57,746 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 18:03:57,848 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 18:03:59,896 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 18:04:02,545 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 18:04:02,792 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 18:04:03,197 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 18:04:03,327 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:04:03,409 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:04:03,502 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 18:04:06,581 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 18:04:07,608 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 18:04:07,684 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 18:04:07,717 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 18:04:07,762 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 18:04:09,813 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 18:04:11,949 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 18:04:12,130 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 18:04:12,466 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 18:04:12,601 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:04:12,695 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:04:12,793 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 18:04:12,858 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 18:04:13,427 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 18:04:13,445 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 18:04:16,497 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-26 18:06:39,704 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 18:06:39,783 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 18:06:39,835 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 18:06:39,895 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 18:06:41,992 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 18:06:44,552 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 18:06:44,824 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 18:06:45,250 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 18:06:45,355 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:06:45,465 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:06:45,557 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-26 18:06:48,632 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-26 18:07:20,008 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-26 18:07:20,080 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-26 18:07:20,111 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-26 18:07:20,156 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-26 18:07:22,205 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-26 18:07:24,381 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-26 18:07:24,556 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-26 18:07:24,962 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-26 18:07:25,067 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:07:25,161 base.py[line:40] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-26 18:07:25,248 base.py[line:40] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-26 18:07:25,307 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 18:07:25,885 base.py[line:40] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-26 18:07:25,910 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-26 18:07:28,963 base.py[line:40] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-27 09:47:33,718 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-27 09:47:33,792 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-27 09:47:33,824 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-27 09:47:33,870 base.py[line:42] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-27 09:47:35,918 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-27 09:47:38,987 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-27 09:47:39,220 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-27 09:47:39,790 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-27 09:47:39,874 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-27 09:47:39,972 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-27 09:47:40,032 base.py[line:42] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-27 09:47:40,090 base.py[line:42] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-27 09:47:40,681 base.py[line:42] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-27 09:47:40,703 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-27 09:59:20,959 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-27 09:59:21,056 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-27 09:59:21,166 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-27 09:59:21,231 base.py[line:42] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-27 09:59:23,280 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-27 09:59:25,788 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-27 09:59:26,021 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-27 09:59:26,642 base.py[line:42] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-27 09:59:26,746 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-27 09:59:26,844 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-27 09:59:26,941 base.py[line:42] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-27 09:59:30,019 base.py[line:42] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-27 09:59:30,146 sendmail_page.py[line:128] INFO <selenium.webdriver.remote.webelement.WebElement (session="a65f6d704d02d3071a81b76e44bbd2aa", element="0ba99f2e-cefe-4462-9325-16a3b2673cf1")>
+2021-10-27 09:59:30,161 base.py[line:42] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-28 10:12:23,278 base.py[line:43] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-28 10:12:23,364 base.py[line:43] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-28 10:12:23,415 base.py[line:43] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-28 10:12:23,526 base.py[line:43] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-28 10:12:25,572 base.py[line:43] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-28 10:12:28,188 base.py[line:43] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-28 10:12:28,418 base.py[line:43] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-28 10:12:29,044 base.py[line:43] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-28 10:12:29,152 base.py[line:43] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-28 10:12:29,242 base.py[line:43] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-28 10:12:29,336 base.py[line:43] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-28 10:12:32,408 base.py[line:43] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-28 11:08:46,706 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-28 11:08:46,767 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-28 11:08:46,796 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-28 11:08:46,836 base.py[line:44] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-28 11:08:48,880 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-28 11:08:51,589 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-28 11:08:51,835 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-28 11:08:52,366 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-28 11:08:52,453 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-28 11:08:52,541 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-28 11:08:52,595 base.py[line:44] INFO 正在定位元素信息：定位方式->name,value值->sendbtn
+2021-10-28 11:08:55,679 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-28 11:08:55,985 base.py[line:44] INFO 正在定位元素信息：定位方式->partial link text,value值->返回邮箱首页
+2021-10-28 11:09:01,736 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="sendinfomsg"]
+2021-10-28 11:09:44,096 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-28 11:09:44,169 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-28 11:09:44,199 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-28 11:09:44,257 base.py[line:44] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-28 11:09:46,307 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-28 11:09:48,434 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->composebtn
+2021-10-28 11:09:48,606 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id='toAreaCtrl']/div[2]/input
+2021-10-28 11:09:49,033 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->subject
+2021-10-28 11:09:49,133 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-28 11:09:49,217 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->/html/body
+2021-10-28 11:09:49,300 base.py[line:44] INFO 正在定位元素信息：定位方式->name,value值->timeSendbtn
+2021-10-28 11:09:49,363 base.py[line:44] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-28 11:09:49,938 base.py[line:44] INFO 正在定位元素信息：定位方式->class name,value值->ico_select_s
+2021-10-28 11:09:49,958 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->timeSend_QMDialog_confirm
+2021-10-28 11:09:53,026 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->sendinfomsg
+2021-10-28 11:10:30,927 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-28 11:10:52,933 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-28 11:11:34,118 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-28 11:11:34,184 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-28 11:11:34,219 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-28 11:11:34,269 base.py[line:44] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-28 11:11:36,320 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-28 11:12:12,853 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-28 11:12:12,919 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-28 11:12:12,951 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-28 11:12:12,997 base.py[line:44] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-28 11:12:15,050 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-10-28 11:12:49,073 base.py[line:44] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-10-28 11:12:49,140 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-10-28 11:12:49,172 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-10-28 11:12:49,212 base.py[line:44] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-10-28 11:12:51,264 base.py[line:44] INFO 正在定位元素信息：定位方式->id,value值->login_button

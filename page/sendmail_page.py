@@ -14,7 +14,6 @@ from selenium import webdriver
 import time
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from web_outo.page.login import Login_Ulis
 from web_outo.page.login_page import Login
 
 
@@ -113,8 +112,8 @@ class SendMail(Login):
         for i in range(2):
             self.Click_Year_button()
         self.Click_time_Send_button()
-        self.Timedsending_emailpage_verification()
-        self.Return_to_mailbox_homepage()
+        # self.Timedsending_emailpage_verification()
+        # self.Return_to_mailbox_homepage()
 
     def Send_mail_successfully(self):
         """判断正常发送登录页面是否出现该元素，做校验用"""
@@ -122,11 +121,11 @@ class SendMail(Login):
         time.sleep(3)
         self.open_iframe("mainFrame")
         try:
-            t = self.findElement(self.Mail_sent_successfully).text
-            self.getScreenShot(t)
-            print(t)
+            t = self.findElement(self.Mail_sent_successfully)
+            self.getScreenShot("邮件发送成功")
+            print(t.text)
             self.switch_content()
-            return t
+            return True
         except NoSuchElementException:
             return False
 
@@ -140,7 +139,7 @@ class SendMail(Login):
             self.getScreenShot(t)
             print(t)
             self.switch_content()
-            return t
+            return True
         except NoSuchElementException:
             return False
 
@@ -150,5 +149,5 @@ if __name__ == '__main__':
     driver.get('https://mail.qq.com/')
     sendmail = SendMail(driver)
     sendmail.login_QQ(autologin_button=True)
-    # sendmail.Send_Mail()
-    sendmail.Send_mail_regularly()
+    sendmail.Send_Mail()
+    # sendmail.Send_mail_regularly()

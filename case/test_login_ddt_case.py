@@ -12,6 +12,7 @@ import unittest
 from web_outo.page.login_page import Login, url
 import ddt
 import time
+import logging
 
 
 # 测试数据源

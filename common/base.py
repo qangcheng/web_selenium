@@ -1,23 +1,33 @@
+# coding=utf-8
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import os
 from selenium.webdriver.common.action_chains import ActionChains  # 鼠标事件库
 from selenium.webdriver.support.ui import Select  # 针对选项框的方法
 import logging.config
 import csv
+import logging
+from os import path
+import os
 
 # 读取log.conf中的配置表
-CON_LOG = '../config/log.conf'
-logging.config.fileConfig(CON_LOG)
-logging = logging.getLogger()
+
+# CON_LOG = '../config/log.conf'
+# logging.config.fileConfig(CON_LOG)
+# logging = logging.getLogger()
+
+log_file_path = os.path.dirname(os.path.dirname(__file__))+'/config/log.conf'
+print(log_file_path)
+logging.config.fileConfig(log_file_path)
+logger = logging.getLogger()
 
 
 class Base(object):
     """基于selenium中的expected_conditions库做二次封装"""
 
-    def __init__(self, driver=webdriver.Chrome()):
+    def __init__(self, driver):
         self.new = time.strftime("%Y-%m-%d %H_%M_%S")
         self.driver = driver
         self.timeout = 10
@@ -26,27 +36,27 @@ class Base(object):
     # 新的定位方法,与findElement方法返回一致
     def findElementNew(self, locator):
         if not isinstance(locator, tuple):
-            print('locator参数类型错误，必须传元组类型：loc=("id","value1")')
+            logging.info('locator参数类型错误，必须传元组类型：loc=("id","value1")')
         else:
-            print("正在点各位元素信息：定位方式->%s,value值->%s" % (locator[0], locator[1]))
+            logging.info("正在定位元素信息：定位方式->%s,value值->%s" % (locator[0], locator[1]))
             ele = WebDriverWait(self.driver, self.timeout, self.t).until(lambda x: x.find_element(*locator))
             return ele
 
     # 单个元素等待方法封装，调用这个方法可以返回定位元素，比sleep和隐示等待更加稳定
     def findElement(self, locator):
         if not isinstance(locator, tuple):
-            print('locator参数类型错误，必须传元组类型：loc=("id","value1")')
+            logging.info('locator参数类型错误，必须传元组类型：loc=("id","value1")')
         else:
-            print("正在定位元素信息：定位方式->%s,value值->%s" % (locator[0], locator[1]))
+            logging.info("正在定位元素信息：定位方式->%s,value值->%s" % (locator[0], locator[1]))
             ele = WebDriverWait(self.driver, self.timeout, self.t).until(lambda x: x.find_element(*locator))
             return ele
 
     # 一组元素等待方法封装，调用这个方法可以返回定位元素，比sleep和隐示等待更加稳定
     def findElements(self, locator):
         if not isinstance(locator, tuple):
-            print('locator参数类型错误，必须传元组类型：loc=("id","value1")')
+            logging.info('locator参数类型错误，必须传元组类型：loc=("id","value1")')
         else:
-            print("正在定位元素信息：定位方式->%s,value值->%s" % (locator[0], locator[1]))
+            logging.info("正在定位元素信息：定位方式->%s,value值->%s" % (locator[0], locator[1]))
             ele = WebDriverWait(self.driver, self.timeout, self.t).until(lambda x: x.find_elements(*locator))
             return ele
 
@@ -74,7 +84,7 @@ class Base(object):
         elif n == 1:
             return True
         else:
-            print("定位到多个元素：%s" % n)
+            logging.info("定位到多个元素：%s" % n)
             return True
 
     # 封装input方法

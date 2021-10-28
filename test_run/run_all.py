@@ -1,3 +1,4 @@
+# coding=utf-8
 """
  r以读的方式打开文件，读取文件信息
  w 以写入当时打开文件，如果文件存在，清空文件重新写入
@@ -13,6 +14,17 @@
 import unittest
 from web_outo.common import HTMLTestRunner
 import time
+import logging
+import logging.config
+from os import path
+import os
+
+
+# 读取log.conf的配置表相关
+log_file_path = os.path.dirname(os.path.dirname(__file__))+'/config/log.conf'
+print(log_file_path)
+logging.config.fileConfig(log_file_path)
+logger = logging.getLogger()
 
 # 用例路径
 casePath = r'D:\web_pro\web_outo\case'

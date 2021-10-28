@@ -10,6 +10,9 @@ os.path.join：添加路径链接（propath, "data", "account.csv"）
 
 import os
 import time
+import logging
+from os import path
+import logging.config
 module = "wewewe"
 Time= time.strftime("%Y-%m-%d %H_%M_%S")
 image_ile = os.path.dirname(os.path.dirname(__file__)) + '/Photo_screenshot/%s_%s.png' % (module, Time)

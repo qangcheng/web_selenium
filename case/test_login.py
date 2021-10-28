@@ -7,6 +7,7 @@
 from selenium import webdriver
 import unittest
 from web_outo.page.login import Login_Ulis
+import logging
 
 url = 'https://mail.qq.com/'
 
