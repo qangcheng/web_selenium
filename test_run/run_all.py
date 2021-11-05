@@ -18,13 +18,21 @@ import logging
 import logging.config
 from os import path
 import os
+import sys
+
+# cmd路径读取
+current_directory = os.path.dirname(os.path.abspath(__file__))
+js_path = os.path.join(os.path.dirname(current_directory), "test_run", "run.py")
+print(js_path)
+sys.path.append(js_path)
 
 
 # 读取log.conf的配置表相关
-log_file_path = os.path.dirname(os.path.dirname(__file__))+'/config/log.conf'
-print(log_file_path)
-logging.config.fileConfig(log_file_path)
-logger = logging.getLogger()
+log_file_path = os.path.dirname(os.path.abspath(__file__))
+log_path = os.path.join(os.path.dirname(log_file_path), "config", "log.conf")
+print(log_path)
+logging.config.fileConfig(log_path)
+
 
 # 用例路径
 casePath = r'D:\web_pro\web_outo\case'

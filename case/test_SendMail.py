@@ -4,12 +4,12 @@ from web_outo.page.sendmail_page import SendMail
 from web_outo.page.login_page import url, Login
 import ddt
 import time
-import logging
+from web_outo.common.log import Logger
 
 
 @ddt.ddt()
 class SendMailCase(unittest.TestCase):
-    """QQ邮箱发送案例"""
+    """QQ邮箱发送邮件测试报告"""
 
     # 代表整个测试执行中只执行一次的前置条件
     @classmethod
@@ -33,7 +33,7 @@ class SendMailCase(unittest.TestCase):
         """定时发送邮件测试报告"""
         self.sendmail.login_QQ(autologin_button=True)
         self.sendmail.Send_mail_regularly()
-        self.assertTrue(self.sendmail.Timedsending_emailpage_verification())
+        self.assertTrue(self.sendmail.Timedsending_emailpage_verification(),)
 
     # 代表每条用例结束时执行一次
     def tearDown(self):

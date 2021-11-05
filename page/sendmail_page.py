@@ -100,7 +100,7 @@ class SendMail(Login):
         self.Input_The_Text()
         self.Send_mail_options()
         self.Send_mail_successfully()
-        self.Return_to_mailbox_homepage()
+        # self.Return_to_mailbox_homepage()
 
     def Send_mail_regularly(self):
         """定时发送邮件"""
@@ -136,7 +136,7 @@ class SendMail(Login):
         self.open_iframe("mainFrame")
         try:
             t = self.findElement(self.Timedsending).text
-            self.getScreenShot(t)
+            self.getScreenShot("您的定时邮件保存成功")
             print(t)
             self.switch_content()
             return True

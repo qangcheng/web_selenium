@@ -206,7 +206,7 @@ class Base(object):
         element = self.findElement(locator)
         Select(element).select_by_value(value)
 
-    # 页面选择下拉框通过value值来定位
+    # 页面选择下拉框通过文本来定位
     def select_by_text(self, locator, text):
         """通过文本定位"""
         element = self.findElement(locator)

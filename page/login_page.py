@@ -56,7 +56,7 @@ class Login(Base):
         time.sleep(2)
         self.switch_content()
 
-    def Not_login_QQ(self, uesr="1425000581", password="weishi", autologin_button=False):
+    def Not_login_QQ(self, uesr="1425000581", password="Weishi@321", autologin_button=False):
         """测试电脑未登录QQ"""
         self.open_iframe('login_frame')
         self.Input_User(uesr)
