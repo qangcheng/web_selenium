@@ -43,9 +43,14 @@ class LoginCase(unittest.TestCase):
     def login_case(self, user, psw, Except):
         # 第一种自己写流程
         self.Login_page.open_iframe('login_frame')
-        self.Login_page.Click_switcher_button()
-        self.Login_page.Input_User(user)
-        self.Login_page.Input_Psw(psw)
+        try:
+            self.Login_page.Click_switcher_button()
+        except:
+            print("没有找到切换按钮")
+            self.Login_page.Not_login_QQ()
+        else:
+            self.Login_page.Input_User(user)
+            self.Login_page.Input_Psw(psw)
         if self.Login_page.autologin_button: self.Login_page.Click_autologin_button()
         time.sleep(2)
         self.Login_page.Click_login_button()

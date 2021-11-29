@@ -500,3 +500,18 @@
 2021-11-04 20:53:16,931 base.py[line:50] INFO ���ڶ�λԪ����Ϣ����λ��ʽ->class name,valueֵ->ico_select_s
 2021-11-04 20:53:16,952 base.py[line:50] INFO ���ڶ�λԪ����Ϣ����λ��ʽ->id,valueֵ->timeSend_QMDialog_confirm
 2021-11-04 20:53:20,015 base.py[line:50] INFO ���ڶ�λԪ����Ϣ����λ��ʽ->id,valueֵ->sendinfomsg
+2021-11-25 11:29:01,354 base.py[line:50] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-11-25 11:29:46,376 base.py[line:50] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-11-25 11:30:24,434 base.py[line:50] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-11-25 11:31:09,380 base.py[line:50] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-11-25 11:32:16,331 base.py[line:50] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-11-25 11:33:06,296 base.py[line:50] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-11-25 11:34:01,244 base.py[line:50] INFO 正在定位元素信息：定位方式->xpath,value值->//*[@id="switcher_plogin"]
+2021-11-25 11:38:25,009 base.py[line:50] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-11-25 11:38:25,053 base.py[line:50] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-11-25 11:38:25,120 base.py[line:50] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-11-25 11:38:27,182 base.py[line:50] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2021-11-25 16:54:04,999 base.py[line:50] INFO 正在定位元素信息：定位方式->id,value值->u
+2021-11-25 16:54:05,086 base.py[line:50] INFO 正在定位元素信息：定位方式->id,value值->p
+2021-11-25 16:54:05,154 base.py[line:50] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2021-11-25 16:54:07,216 base.py[line:50] INFO 正在定位元素信息：定位方式->id,value值->login_button

@@ -83,7 +83,7 @@ if __name__ == '__main__':
     login_page = Login(dirver)
     dirver.get(url)
     time.sleep(2)
-    login_page.login_QQ(autologin_button=True)
+    login_page.Not_login_QQ(autologin_button=True)
     # login_page.Not_login_QQ(autologin_button=True)
     time.sleep(2)
     rulest = login_page.get_login_uesrname("退出")
