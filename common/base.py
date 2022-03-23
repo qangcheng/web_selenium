@@ -9,7 +9,6 @@ from selenium.webdriver.support.ui import Select  # 针对选项框的方法
 import logging.config
 import csv
 import logging
-from os import path
 import os
 
 # 读取log.conf中的配置表
@@ -18,7 +17,7 @@ import os
 # logging.config.fileConfig(CON_LOG)
 # logging = logging.getLogger()
 
-log_file_path = os.path.dirname(os.path.dirname(__file__))+'/config/log.conf'
+log_file_path = os.path.dirname(os.path.dirname(__file__)) + '/config/log.conf'
 print(log_file_path)
 logging.config.fileConfig(log_file_path)
 logger = logging.getLogger()
@@ -28,6 +27,7 @@ class Base(object):
     """基于selenium中的expected_conditions库做二次封装"""
 
     def __init__(self, driver):
+        self.handler_list = self.driver.windows_handles
         self.new = time.strftime("%Y-%m-%d %H_%M_%S")
         self.driver = driver
         self.timeout = 10
@@ -101,6 +101,10 @@ class Base(object):
     def open_iframe(self, a):
         return self.driver.switch_to.frame(a)
 
+    # 切换窗口
+    def switch_handler(self, nuber):
+        return driver.switch_to.window(self.handler_list[nuber])
+
     # 切换回窗口的的content
     def switch_content(self):
         return self.driver.switch_to.default_content()
@@ -120,13 +124,6 @@ class Base(object):
             return False
 
     # 读取csv文件
-    def Get_Scv_Data(self, csv_file, line):
-        logging.info("=====get_scv_data======")
-        with open(csv_file, "r", encoding="utf-8-sig") as file:  # 防止出现非法字符使用sig方法
-            reader = csv.reader(file)
-            for index, row in enumerate(reader, 1):  # 需要获取到第几行的参数数据就改为几行
-                if index == line:
-                    return row
 
     # 判断网站title的方法,title过长时只要预期结果包含于实际结果的调用方法
     def is_title_contains(self, _title):
@@ -181,6 +178,14 @@ class Base(object):
     # 获取当前时间
     def getTime(self):
         return self.new
+
+    def Get_Scv_Data(self, csv_file, line):
+        logging.info("=====get_scv_data======")
+        with open(csv_file, "r", encoding="utf-8-sig") as file:  # 防止出现非法字符使用sig方法
+            reader = csv.reader(file)
+            for index, row in enumerate(reader, 1):  # 需要获取到第几行的参数数据就改为几行
+                if index == line:
+                    return row
 
     # 截取当前页面图片
     def getScreenShot(self, module):
