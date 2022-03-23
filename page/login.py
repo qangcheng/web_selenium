@@ -3,7 +3,7 @@ import time
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from web_outo.common.base import Base
+from Common.base import Base
 
 
 class Login_Ulis(Base):

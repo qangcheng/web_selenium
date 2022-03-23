@@ -11,7 +11,7 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-from web_outo.common.base import Base
+from Common.base import Base
 
 url = 'https://mail.qq.com/'
 

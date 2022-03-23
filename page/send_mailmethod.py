@@ -14,7 +14,7 @@ from selenium import webdriver
 import time
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from web_outo.page.login import Login_Ulis
+from page.login import Login_Ulis
 
 
 class SendMail(Login_Ulis):
