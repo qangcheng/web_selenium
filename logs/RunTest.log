@@ -515,3 +515,7 @@
 2021-11-25 16:54:05,086 base.py[line:50] INFO 正在定位元素信息：定位方式->id,value值->p
 2021-11-25 16:54:05,154 base.py[line:50] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
 2021-11-25 16:54:07,216 base.py[line:50] INFO 正在定位元素信息：定位方式->id,value值->login_button
+2022-03-23 17:08:59,229 base.py[line:49] INFO 正在定位元素信息：定位方式->id,value值->u
+2022-03-23 17:08:59,359 base.py[line:49] INFO 正在定位元素信息：定位方式->id,value值->p
+2022-03-23 17:08:59,453 base.py[line:49] INFO 正在定位元素信息：定位方式->class name,value值->low_login_wording
+2022-03-23 17:09:01,553 base.py[line:49] INFO 正在定位元素信息：定位方式->id,value值->login_button

@@ -1,10 +1,10 @@
 from selenium import webdriver
 import unittest
-from web_outo.page.sendmail_page import SendMail
-from web_outo.page.login_page import url, Login
+from page.sendmail_page import SendMail
+from page.login_page import url, Login
 import ddt
 import time
-from web_outo.common.log import Logger
+from Common.log import Logger
 
 
 @ddt.ddt()

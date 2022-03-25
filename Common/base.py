@@ -27,7 +27,6 @@ class Base(object):
     """基于selenium中的expected_conditions库做二次封装"""
 
     def __init__(self, driver):
-        self.handler_list = self.driver.windows_handles
         self.new = time.strftime("%Y-%m-%d %H_%M_%S")
         self.driver = driver
         self.timeout = 10
@@ -89,6 +88,11 @@ class Base(object):
 
     # 封装input方法
     def sendKeys(self, locator, text):
+        """
+        :param locator:  获取到的元素
+        :param text: 输入的内容
+        :return: 完成输入场景
+        """
         ele = self.findElement(locator)
         return ele.send_keys(text)
 
@@ -103,6 +107,7 @@ class Base(object):
 
     # 切换窗口
     def switch_handler(self, nuber):
+        self.handler_list = self.driver.windows_handles
         return driver.switch_to.window(self.handler_list[nuber])
 
     # 切换回窗口的的content

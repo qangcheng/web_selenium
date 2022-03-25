@@ -14,7 +14,7 @@ import time
 from selenium.common.exceptions import *
 from selenium.webdriver.common.action_chains import ActionChains
 import logging
-from test_project.HTMLTestRunner import HTMLTestRunner
+from Common.HTMLTestRunner import HTMLTestRunner
 
 # logging.basicConfig(level=logging.DEBUG)
 

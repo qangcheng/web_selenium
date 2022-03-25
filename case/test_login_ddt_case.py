@@ -9,7 +9,7 @@ ddt好处在于对于同样用例只是数据不一致的用例执行时，更�
 
 from selenium import webdriver
 import unittest
-from web_outo.page.login_page import Login, url
+from page.login_page import Login, url
 import ddt
 import time
 import logging
@@ -66,7 +66,7 @@ class LoginCase(unittest.TestCase):
               {"user": "1425000581", "psw": "", "Except": ""})
     # 正确账号密码
     def test_01(self, data):
-        """QQ邮箱登录成功测试报告"""
+        """QQ邮箱登录参数化测试报告"""
         print("--------------开始测试：test_01--------------")
         # data1 = testdates[0]
         print("测试数据是：%s" % data)

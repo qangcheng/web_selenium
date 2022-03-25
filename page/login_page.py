@@ -44,8 +44,13 @@ class Login(Base):
         """切换按钮点击方法封装"""
         self.click(self.switcher_plogin)
 
-    def login_QQ(self, user="1425000581", password="Weishi@321", autologin_button=False):
-        """测试电脑已登录QQ登录"""
+    def login_QQ(self, user: str = "1425000581", password: str = "Weishi@321", autologin_button=False):
+        """
+        测试电脑已登录QQ登录
+        :param user: 登录账号
+        :param password: 登录密码
+        :param autologin_button: 元素状态判断
+        """
         self.open_iframe('login_frame')
         self.Click_switcher_button()
         self.Input_User(user)
@@ -56,8 +61,14 @@ class Login(Base):
         time.sleep(2)
         self.switch_content()
 
-    def Not_login_QQ(self, uesr="1425000581", password="Weishi@321", autologin_button=False):
-        """测试电脑未登录QQ"""
+    def Not_login_QQ(self, uesr: str = "1425000581", password: str = "Weishi@321", autologin_button=False):
+        """
+        测试电脑未登录QQ
+        :param uesr: 登录账号
+        :param password: 登录密码
+        :param autologin_button: 元素状态返回
+        :return:
+        """
         self.open_iframe('login_frame')
         self.Input_User(uesr)
         self.Input_Psw(password)
@@ -69,7 +80,11 @@ class Login(Base):
 
     # link方法获取到当前页面的元素text文本来判定是否成功
     def get_login_uesrname(self, a):
-        """判断登录页面是否出现该元素，做校验用"""
+        """
+        判断登录页面是否出现该元素，做校验用
+        :param a: 页面已存在的link文案
+        :return: 判断结果，文件存在输出文案，文案不存在输出False
+        """
         try:
             t = self.driver.find_element_by_link_text(a)
             print(t)
