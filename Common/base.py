@@ -1,5 +1,4 @@
 # coding=utf-8
-
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -89,9 +88,9 @@ class Base(object):
     # 封装input方法
     def sendKeys(self, locator, text):
         """
-        :param locator:  获取到的元素
-        :param text: 输入的内容
-        :return: 完成输入场景
+        :param locator:
+        :param text:
+        :return: 输入操作
         """
         ele = self.findElement(locator)
         return ele.send_keys(text)
